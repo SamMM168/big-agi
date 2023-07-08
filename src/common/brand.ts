@@ -8,12 +8,12 @@
  */
 export const Brand = {
   Title: {
-    Base: 'big-AGI',
+    Base: 'NewBig ChatGPT',
     Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
   },
   Meta: {
     Description: 'Leading open-source AI web interface to help you learn, think, and do. AI personas, superior privacy, advanced features, and fun UX.',
-    SiteName: 'big-AGI | Harnessing AI for You',
+    SiteName: 'NewBig ChatGPT | Harnessing AI for You',
     ThemeColor: '#434356',
     TwitterSite: '@enricoros',
   },
